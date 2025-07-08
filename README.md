@@ -1,5 +1,5 @@
-# egg
+# 🥚 egg
 
-## 🥚 Nice scrambled eggs
+## Nice scrambled eggs
 
 ![Alt Text](https://media.tenor.com/fePQT3FXJJwAAAAM/shiggy-cook.gif)
